@@ -3,3 +3,13 @@ The goal of the project is to analyze the popularity of movies based on a set of
 
 ### Research Question 1: Which genres are most popular from year to year?
 ### Research Question 2: What kinds of properties are associated with movies that have high revenues?
+
+## Data
+-----------
+## Method
+-----------
+## Analysis
+---------
+## Results
+--------
+## Conclusion
