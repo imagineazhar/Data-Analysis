@@ -36,5 +36,5 @@ WHERE country = 'Pakistan'
 
 - Other cities, such as Karachi and Lahore, are hotter than Islamabad. But their average temperature is following the same trend as Islamabad. 
 # Visualizations
-![Islamabad viz](https://github.com/git-azhar/Average-Temperature-Analysis/blob/main/isb_post.png)
-![Global Viz](https://github.com/git-azhar/Average-Temperature-Analysis/blob/main/global.png)
+<img src='https://github.com/git-azhar/Average-Temperature-Analysis/blob/main/isb_post.png' width='100'>
+<img src='https://github.com/git-azhar/Average-Temperature-Analysis/blob/main/global.png' width='100'>
