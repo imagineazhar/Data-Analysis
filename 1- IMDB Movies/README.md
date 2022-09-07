@@ -19,9 +19,11 @@ This dataset consists of ten thousand movies and related metadata and  features 
 ![Overall Popularity](overall_popularity.png)
 
 - Popularity of Each Genre Over the Years
+
 ![Popularity by Genre ](genre_pop.png)
 
 - Effect on Revenue
+
 ![Revnue](revenue_cor.png)
 
 -----------
